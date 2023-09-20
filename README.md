@@ -1,0 +1,14 @@
+# missi_padext4_global-user 13 TKQ1.221013.002 V14.0.6.0.TKXMIXM release-keys
+- manufacturer: xiaomi
+- platform: msmnile
+- codename: nabu
+- flavor: missi_padext4_global-user
+- release: 13
+- id: TKQ1.221013.002
+- incremental: V14.0.6.0.TKXMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/nabu_global/nabu:13/RKQ1.200826.002/V14.0.6.0.TKXMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_padext4_global-user-13-TKQ1.221013.002-V14.0.6.0.TKXMIXM-release-keys
+- repo: xiaomi_nabu_dump
